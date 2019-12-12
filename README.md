@@ -9,6 +9,8 @@ XML файл должен содержать следующие поля :
 - Info
 - Kuupaev
 
+#### Ссылка на сайт с проектом
+https://vinogradov17.thkit.ee/ToDo/
 
 #### XML файл
 ```
