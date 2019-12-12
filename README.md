@@ -168,8 +168,11 @@ function searchItemByTask($query){//функция поиска по Task'у и 
 После входа в учетную запись пользователь может создавать свои таски, редактировать их, удалять и ставить галочку если пользователь их выполнил
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/4.PNG)
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/5.PNG)
+Создание таска
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/7.PNG)
+Редактирование таска
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/8.PNG)
+Удаление таска
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/9.PNG)
 Также пользователь может зайти во вкладку календаря и более удобным способом выбрать дату таска
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/6.PNG)
