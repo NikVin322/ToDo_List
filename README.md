@@ -163,8 +163,8 @@ function searchItemByTask($query){//функция поиска по Task'у и 
 #### Сценарий
 При заходе на сайт пользователь видит главную старницу, а при попытке перейти на другую страницу пользователя переносит на страницу Log in, а если у него ещё нет своего аккаунта, то ему необходимо перейти на страницу регистрации и зарегистрироваться
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/1.PNG)
-![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/2.PNG)
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/3.PNG)
+![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/2.PNG)
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/4.PNG)
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/5.PNG)
 ![ToDo](https://github.com/NikVin322/ToDo_List/blob/master/Screens/6.PNG)
